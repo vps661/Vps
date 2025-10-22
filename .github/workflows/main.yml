@@ -1,0 +1,15 @@
+{
+  "name": "### DOLDUR: Bağlantı adı ###",
+  "protocol": "rdp",
+  "parameters": {
+    "hostname": "### DOLDUR: hedef-host-or-ip ###",
+    "port": "3389",
+    "username": "### DOLDUR: kullanıcı-adı ###",
+    "password": "### DOLDUR: şifre (tercihen şifreyi burada saklamayın; Guacamole'ın credential store kullanın) ###",
+    "security": "rdp", 
+    "ignore-cert": "true",
+    "console": "false",
+    "color-depth": "24",
+    "drive": "true" 
+  }
+}
